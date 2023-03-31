@@ -1,6 +1,6 @@
 Name:		texlive-xmltexconfig
 Version:	45845
-Release:	1
+Release:	2
 Summary:	configuration files for xmltex and pdfxmltex
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xmltexconfig
