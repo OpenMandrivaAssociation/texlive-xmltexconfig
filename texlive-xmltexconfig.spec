@@ -3,7 +3,7 @@ Version:	45845
 Release:	2
 Summary:	configuration files for xmltex and pdfxmltex
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xmltexconfig
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xmltexconfig
 License:	
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xmltexconfig.r%{version}.tar.xz
 BuildArch:	noarch
